@@ -74,7 +74,7 @@
     "sass-loader": "^6.0.6",
     "sinon": "^4.0.1",
     "sinon-chrome": "^2.2.1",
-    "stylelint": "^8.4.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-recommended": "^2.0.1",
     "web-ext": "^1.9.1",
     "webpack": "^3.10.0",
